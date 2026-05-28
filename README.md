@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Cybersec @EPFL/ETHZ. Passioned a lot about Web3 and blockchain technologies
 
 
